@@ -15,5 +15,5 @@ import Test.Hspec
 
 spec :: Spec
 spec = describe "HaskellWorks.Tar.TarSpec" $ do
-  it "stub" $ requireTest $ do
+  it "create" $ requireTest $ do
     True === True
