@@ -1,0 +1,3 @@
+[submodule "corpus"]
+	path = corpus
+	url = git@github.com:haskell-works/hw-tar-corpus.git
